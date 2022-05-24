@@ -1,0 +1,16 @@
+.action_btn{
+    margin: 0 5px;
+}
+.app{
+    margin: auto;
+    max-width: 80%;
+}
+
+.create_user{
+    margin-bottom: 7px;
+    margin-top: 20px;
+}
+.create_btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
